@@ -1,7 +1,25 @@
-<style>
-        h1 {
-            background-color: rgb(255, 238, 0);
-            color: darkblue;
-            text-align: center
-        }
-    </style>
+h1 {
+    background-color: rgb(255, 238, 0);
+    color: darkblue;
+    text-align: center
+}
+
+p {
+    background-color: palegreen;
+}
+
+body {
+    background-color: rgb(230, 173, 229);
+}
+/* selector {
+    property: value;;
+} */
+
+.bg-red-h1{
+    background-color: red;
+}
+
+.bg-blue-h1{
+    background-color: blue;
+    color: white;
+}
