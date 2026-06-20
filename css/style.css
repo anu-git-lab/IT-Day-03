@@ -17,6 +17,13 @@ body {
 
 .bg-red-h1{
     background-color: red;
+    text-align: center;
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px; */
+
+    padding: 20px 50px 20px 50px;
 }
 
 .bg-blue-h1{
