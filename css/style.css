@@ -44,8 +44,16 @@ body {
 #pg-1 {
     background-color: lightblue;
 }
-* {
+/* * {
     background-color: lightpink;
     margin: 0;
     padding: 0;
+} */
+
+body {
+    background-image: url('../img/nature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
 }
