@@ -57,3 +57,26 @@ body {
     background-position: center;
     background-attachment: fixed; */
 }
+
+.pg02-background {
+    background-color: rgb(255, 157, 127);
+    margin: 20px;
+    padding: 10px;
+}
+
+#box01 {
+    width: 50px;
+    height: 50px;
+    background-color:  blue;
+    position: sticky;
+    /* position: relative; */
+    top: 20px;
+    left: 70px;
+}
+
+#box02 {
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background-color:  black;
+}
